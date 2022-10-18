@@ -7,3 +7,4 @@
 <a href="arraySlice.php">array_slice</a><br>
 <a href="arraySplice.php">array_splice</a><br>
 <a href="arrayReduce.php">array_reduce</a><br>
+<a href="list.php">list</a><br>
