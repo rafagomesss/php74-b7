@@ -1,0 +1,8 @@
+[2023-01-09T18:53:50.923190+01:00] name.WARNING: Foo [] []
+[2023-01-09T18:53:50.924170+01:00] name.ERROR: Bar [] []
+[2023-01-09T18:56:02.801193+01:00] name.WARNING: Dados ["Primeira",29,{"array2":"log"}] []
+[2023-01-09T18:56:02.801902+01:00] name.ERROR: Bar [] []
+[2023-01-09T18:56:55.992830+01:00] name.WARNING: Dados ["Primeira",29,{"array2":"log"}] []
+[2023-01-09T18:56:55.993508+01:00] name.ERROR: Bar [] []
+[2023-01-09T18:57:44.797268+01:00] name.WARNING: Dados ["Primeira",29,{"array2":{"log":["Rafael Gomes",34,"1988"]}}] []
+[2023-01-09T18:57:44.797819+01:00] name.ERROR: Bar [] []
