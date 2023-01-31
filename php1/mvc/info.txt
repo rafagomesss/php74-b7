@@ -1,0 +1,16 @@
+M -> MODEL
+V -> VIEW
+C -> CONTROLLER
+
+Router
+
+Ex:
+- usuário faz a requisição para a url site.com.br/
+- o mvc vai verificar se esta ROTA está estabelecida.
+- o mvc vai mandar a requisição para o CONTROLLER da rota.
+-- CARREGAR UM VIEW
+-- CHAMAR UM MODEL (Usuario)
+
+CONTROLLER
+- MODEL
+- VIEW
